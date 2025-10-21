@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "inicio.Menu",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "guardar",
+            "request": "launch",
+            "mainClass": "inicio.guardar",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "inicio.preentrega.main",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "inicio.preentrega.Main",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "preentrega",
+            "request": "launch",
+            "mainClass": "inicio.preentrega",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "lala",
+            "request": "launch",
+            "mainClass": "inicio.lala",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "practi",
+            "request": "launch",
+            "mainClass": "inicio.practi",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "practica",
+            "request": "launch",
+            "mainClass": "inicio.practica",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "ejmanuclase2",
+            "request": "launch",
+            "mainClass": "inicio.ejmanuclase2",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "clase2for",
+            "request": "launch",
+            "mainClass": "inicio.clase2for",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "clase2while",
+            "request": "launch",
+            "mainClass": "inicio.clase2while",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "clase3",
+            "request": "launch",
+            "mainClass": "inicio.clase3",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "ejeclase2",
+            "request": "launch",
+            "mainClass": "inicio.ejeclase2",
+            "projectName": "CursoVisual_39e93ef2"
+        },
+        {
+            "type": "java",
+            "name": "inicio",
+            "request": "launch",
+            "mainClass": "inicio.inicio",
+            "projectName": "CursoVisual_39e93ef2"
+        }
+    ]
+}
